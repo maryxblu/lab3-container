@@ -1,0 +1,27 @@
+Ejecutando k-mers14 con C++ usando la imagen python_latest.sif
+Start
+
+real	0m3,150s
+user	0m3,125s
+sys	0m0,002s
+
+Ejecutando k-mers14 con Python usando la imagen python_latest.sif
+Start
+
+real	7m48,785s
+user	7m47,565s
+sys	0m0,007s
+
+Ejecutando k-mers13 con C++ usando la imagen python_latest.sif
+Start
+
+real	0m0,801s
+user	0m0,797s
+sys	0m0,002s
+
+Ejecutando k-mers13 con Python usando la imagen python_latest.sif
+Start
+
+real	2m2,296s
+user	2m1,982s
+sys	0m0,015s
